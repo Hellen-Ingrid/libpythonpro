@@ -5,6 +5,8 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 
 Link do curso [Python Pro](https://pythonprobr.appspot.com/)
 
+[![Build Status](https://app.travis-ci.com/Hellen-Ingrid/libpythonpro.svg?branch=main)](https://app.travis-ci.com/Hellen-Ingrid/libpythonpro)
+
 Suportada Versão 3 de python
 
 Para Instalar:
